@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1440140561 source:d:\codeblocks\test\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<algorithm>
+	<stack>
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<map>
+	<vector>
+	<sstream>
+	<queue>
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<vector>
+	<algorithm>
+	<iterator>
+	<list>
+
